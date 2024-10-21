@@ -24,7 +24,7 @@ Desarrollador Full-Stack JavaScript con experiencia en la creación y optimizaci
 ### Bases de datos: SQL, NoSQL
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
-### Herramientas de gestión y despliegue: Git, Docker
+### Herramientas de gestión y despliegue:
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,github,gitlab)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
