@@ -22,7 +22,7 @@ Desarrollador Full-Stack JavaScript con experiencia en la creación y optimizaci
 [![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
 
 ### Bases de datos: SQL, NoSQL
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### Herramientas de gestión y despliegue:
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,github,gitlab)](https://skillicons.dev)
