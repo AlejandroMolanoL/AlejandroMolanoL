@@ -2,7 +2,7 @@
 
 ## 💁 About Me
 
-Desarrollador Full-Stack JavaScript con experiencia en la creación y optimización de aplicaciones web, utilizando tecnologías como React, Node.js y bases de datos SQL/NoSQL. Cuento con más de 11 años de experiencia en el sector tecnológico, donde gestioné equipos de soporte técnico y resolví problemas complejos. Tengo habilidades para diseñar soluciones eficientes y escalables, mejorando la experiencia del usuario y optimizando el rendimiento de las aplicaciones.
+Desarrollador Full Stack con experiencia en el diseño y la optimización de aplicaciones web escalables. Especializado en tecnologías como React y Node.js, con un manejo experto de bases de datos SQL y NoSQL.
 
 ## 🚀 My Skills
 
