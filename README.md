@@ -1,4 +1,4 @@
-# 👋 Alejandro Molano - Full Stack Engineer
+# 👋 Alejandro Molano - FullStack Engineer
 
 ## 💁 About Me
 
