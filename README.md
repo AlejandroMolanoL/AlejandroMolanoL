@@ -7,7 +7,7 @@
 - 🔭 Actualmente estoy trabajando en el desarollo de un **CRM para PacificGPS y un App de Emergencias** y explorando tecnologías como **Python, ReactNative, Expo, React, Zustand, Tailwindcss y ORM: Prisma**.
 - 🌱 Estoy aprendiendo sobre **arquitecturas de microservicios** para mejorar la escalabilidad de las aplicaciones.
 
-- 📫 Contáctame a través de mi [**LinkedIn**](https://www.linkedin.com/in/alejandromolanol/) o por correo en **[tu.email@example.com]**.
+- 📫 Contáctame a través de mi [**LinkedIn**](https://www.linkedin.com/in/alejandromolanol/).
 
 
 ## 🛠️ Mi Stack Tecnológico
