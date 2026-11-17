@@ -48,6 +48,7 @@ Aquí están algunas de las tecnologías con las que he trabajado recientemente:
 | **Prueba Técnica .NET 8 & Angular 18** | `Angular`, `TypeScript`, `.NET 8`, `C#`, `T-SQL`, `SQL Server` | [Ver Repositorio](https://github.com/AlejandroMolanoL/Prueba-Tecnica-Integral-Fullstack-T-SQL-.NET-8-Angular-18) |
 | **Prueba Técnica Spring Boot & React** | `React`, `TypeScript`, `Java`, `Spring Boot`, `PL/SQL`, `Oracle` | [Ver Repositorio](https://github.com/AlejandroMolanoL/Prueba-Tecnica-Integral-Fullstack-PL-SQL-Java-Spring-Boot-React) |
 | **Hackathon #2 HelpPeople** | `React`, `Python`, `FastAPI`, `Machine Learning`, `SQL Server`, `Docker` | [Ver Repositorio](https://github.com/AlejandroMolanoL/Hackathon-2-HelpPeople---Talench) |
+| **Bootcamp TalentoTech — TaskPulse** | `Next.js`, `NestJS`, `TypeScript`, `PostgreSQL`, `Redis`, `Docker` | [Ver Repositorio](https://github.com/AlejandroMolanoL/-Bootcamp-TalentoTech) |
 
 <br>
 
